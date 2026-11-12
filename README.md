@@ -98,7 +98,7 @@ Beginner ➔ Explorer ➔ Challenger ➔ Algorithmist ➔ Master ➔ DSA Legend
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Brain-Tester-Mini-games.git
+git clone https://github.com/rastogialankrit823-ai/Brain-Tester-Mini-games.git
 cd Brain-Tester-Mini-games
 
 # Build using make
@@ -198,3 +198,17 @@ Most DSA practice feels abstract — you submit code, see tests pass, and move o
 - You experience how a **greedy bitwise check** can determine chessboard solvability in milliseconds without brute-forcing permutations.
 
 Have fun playing, and may your algorithms always run in optimal time! 🚀
+
+---
+
+## 👥 Credits
+
+Developed and created by:
+
+- **Alankrit Rastogi** 
+- **Ishitva Pandey** 
+- **Vasu Mittal**
+- **Harsh Vardhan Singh**
+
+
+---
